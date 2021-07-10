@@ -33,7 +33,7 @@ a, a:visited, a:hover, a:active {
   color: #A13E1F;
   font-size: 6em;
   text-align: center;
-  font-family: 'Storybook', sans-serif;
+  font-family: 'Lobster', cursive;
   cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1008.cur), auto !important;
 }
 #myname{
@@ -97,7 +97,7 @@ right:60%;
   align-items: center;
   text-align: center;
   left:15%;
-  font-family: 'Storybook', sans-serif;
+  font-family: 'Lobster', cursive;
   font-size: 1em;
   padding-left: 5%;
   padding-right: 5%;
@@ -108,7 +108,7 @@ right:60%;
   position:relative;
   float:left;
   top:30%;
-  font-family: 'Storybook', sans-serif;
+  font-family: 'Lobster', cursive;
   font-size: 1em;
   text-align: center;
 }
@@ -156,7 +156,7 @@ justify-content: center;
 #comicboxes{
  display:flex;
  justify-content: center;
- font-family: 'Storybook', sans-serif;
+ font-family: 'Lobster', cursive;
  text-align: center;
 }
 
@@ -171,7 +171,7 @@ padding-right:10%;
    background-color: #F8D894;
 }
 #descriptioncomic2{
-  font-family: 'Storybook', sans-serif;
+font-family: 'Lobster', cursive;
   cursor:pointer;
 }
 
@@ -313,7 +313,7 @@ text-align: center;
   margin:auto;
   display:flex;
   text-align: center;
-  font-family: 'Storybook', sans-serif;
+  font-family: 'Lobster', cursive;
   cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1008.cur), auto !important;
 }
 
@@ -375,7 +375,7 @@ margin-top: 3%;
   text-align: center;
   color: #A13E1F;
   font-size: 0.4em;
-  font-family: 'Storybook', sans-serif;
+  font-family: 'Lobster', cursive;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -392,7 +392,7 @@ margin-top: 3%;
   align-items: center;
   font-size: 5em;
   color: #A13E1F;
-  font-family: 'Storybook', sans-serif;
+  font-family: 'Lobster', cursive;
   cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1008.cur), auto !important;
 }
 #sociallinks{
